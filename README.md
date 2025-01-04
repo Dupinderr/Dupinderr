@@ -2,7 +2,7 @@
 - 👀 I’m interested in RED
 - 🌱 I’m currently learning RED
 - 💞️ I’m looking to collaborate on RED
-- 📫 How to reach me.
+- 📫 How to reach me ( instagram maybe,idk 🤷‍♂️) .
 
 <!---
 Dupinderr/Dupinderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

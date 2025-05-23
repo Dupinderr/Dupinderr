@@ -2,7 +2,6 @@
 
 ![Banner](https://github.com/Dupinderr/Dupinderr/blob/main/cat%20coding.jpeg?raw=true)
 
-
 ---
 
 ### 🚀 About Me
@@ -16,18 +15,6 @@ I'm passionate about programming, data analysis, and machine learning. Currently
 ---
 
 ### 💻 Skills
-
-| Skill            | Proficiency                |
-|------------------|----------------------------|
-| Python           | ██████████ 90%             |
-| HTML & CSS       | █████████ 80%              |
-| NumPy & Pandas   | ████████ 70%               |
-| Matplotlib       | ███████ 60%                |
-| TensorFlow       | ███ 30%                    |
-
----
-
-### 📊 Skills Visualization
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 

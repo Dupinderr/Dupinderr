@@ -26,21 +26,6 @@ I'm passionate about programming, data analysis, and machine learning. Currently
 
 ---
 
-### 📂 Projects & Learning Highlights
-
-| Project                         | Description                                                                                          |
-|--------------------------------|--------------------------------------------------------------------------------------------------|
-| Personal Portfolio Website      | A clean, responsive website using HTML and CSS to showcase my skills and projects.               |
-| Data Visualization Dashboard    | Analyzed the Titanic dataset with Pandas and Matplotlib; visualized gender distribution, survival rates, and age. |
-| Movie Recommendation System     | Built a content-based recommender system using Python and Scikit-learn’s cosine similarity metric.|
-
----
-
-### 🎯 What I’m Looking For
-Eager to apply my skills through internships, contribute to exciting projects, and continue learning software development and machine learning.
-
----
-
 ### 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  

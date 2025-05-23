@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm a 2nd Year BTech Information Technology Student
 
-![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://github.com/Dupinderr/Dupinderr/blob/main/cat%20coding.jpeg?raw=true)
+
 
 ---
 

@@ -25,13 +25,13 @@ I'm passionate about programming, data analysis, and machine learning. Currently
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
-
 ### 📫 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dupinderjeet-singh-288758294/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dupinderjeetsingh16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dupinderjeet-singh-288758294/)  
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dupinderjeetsingh16@gmail.com)  
+✉️ Feel free to drop me an email anytime!
+
 
 ### GitHub Stats & Activity 📊
 

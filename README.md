@@ -40,4 +40,3 @@ I'm passionate about programming, data analysis, and machine learning. Currently
 ---
 
 Thanks for stopping by! 🚀  
-*Let's connect and create awesome things together!* 😊

@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I'm passionate about programming, data analysis, and machine learning. Currently honing skills in:
+I'm passionate about programming, data analysis, machine learning and AI . Currently honing skills in:
 
 - Python 🐍  
 - Web Development (HTML & CSS) 🌐  

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a 2nd Year BTech Information Technology Student
+# Hi there! 👋 I'm a 3rd Year BTech Information Technology Student
 
 ![Banner](https://github.com/Dupinderr/Dupinderr/blob/main/cat%20coding.jpeg?raw=true)
 
